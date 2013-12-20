@@ -1,0 +1,3 @@
+ofxSvg
+ofxXmlSettings
+ofxControlPanel
